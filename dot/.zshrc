@@ -82,8 +82,8 @@ source $ZSH/oh-my-zsh.sh
 # alias
 source ~/.bash_alias
 
-#nvm
+# nvm
 source $(brew --prefix nvm)/nvm.sh
 
-#java
+# java
 export JAVA_HOME=`/usr/libexec/java_home`
