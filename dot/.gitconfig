@@ -3,3 +3,6 @@
     email = fruit.wj@taobao.com
 [alias]
     st = status
+    co = checkout
+[core]
+    editor = /usr/bin/vim
